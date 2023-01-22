@@ -1,0 +1,42 @@
+body {
+    background-color: gainsboro;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    text-align: center;
+    padding: 200px;
+    margin: auto;
+}
+
+h1,h2{
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size:25px;
+    font-weight: 500;
+}
+
+button {
+    border:  none;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin:5px;
+    border-radius: 5px;
+
+}
+
+#increment-button{
+    background: rgba(228, 3, 179, 0.879);
+}
+
+#save-button{
+    background:rgba(229, 5, 196, 0.929);
+}
